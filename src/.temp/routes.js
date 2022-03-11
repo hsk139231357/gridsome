@@ -1,6 +1,6 @@
-const c1 = () => import(/* webpackChunkName: "page--src--pages--about-vue" */ "/Users/chenluyi/Desktop/mygridsome-mac/mygridsome-mac/src/pages/About.vue")
-const c2 = () => import(/* webpackChunkName: "page--node-modules--gridsome--app--pages--404-vue" */ "/Users/chenluyi/Desktop/mygridsome-mac/mygridsome-mac/node_modules/gridsome/app/pages/404.vue")
-const c3 = () => import(/* webpackChunkName: "page--src--pages--index-vue" */ "/Users/chenluyi/Desktop/mygridsome-mac/mygridsome-mac/src/pages/Index.vue")
+const c1 = () => import(/* webpackChunkName: "page--src--pages--about-vue" */ "/Users/hsk/train-lagou/lagou-e-task/part3/fed-e-task-03-04/gridsome/src/pages/About.vue")
+const c2 = () => import(/* webpackChunkName: "page--node-modules--gridsome--app--pages--404-vue" */ "/Users/hsk/train-lagou/lagou-e-task/part3/fed-e-task-03-04/gridsome/node_modules/gridsome/app/pages/404.vue")
+const c3 = () => import(/* webpackChunkName: "page--src--pages--index-vue" */ "/Users/hsk/train-lagou/lagou-e-task/part3/fed-e-task-03-04/gridsome/src/pages/Index.vue")
 
 export default [
   {
